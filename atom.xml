@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[PLUGdev on GitHub]]></title>
+  <link href="http://PLUGdev.github.com/atom.xml" rel="self"/>
+  <link href="http://PLUGdev.github.com/"/>
+  <updated>2012-11-27T17:37:31-07:00</updated>
+  <id>http://PLUGdev.github.com/</id>
+  <author>
+    <name><![CDATA[Ed-0x1b]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
